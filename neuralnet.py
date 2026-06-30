@@ -1,11 +1,4 @@
 import numpy as np
-import nnfs
-from nnfs.datasets import spiral_data
-
-np.random.seed(0)
-nnfs.init()
-
-
 # Dense Layer
 class Layer_Dense:
 
